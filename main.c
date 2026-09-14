@@ -9,6 +9,7 @@ int main() {
     printf("Mom!\n");
     printf("Sister!\n");
     printf("I'm a new feature\n");
+    printf("I'm the second feature\n");
 
     return 0;
 }
