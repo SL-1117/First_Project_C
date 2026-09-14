@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <math.h>
+
+int main() {
+
+    printf("Dad!\n");
+    printf("Mom!\n");
+
+    return 0;
+}
