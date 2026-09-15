@@ -11,5 +11,14 @@ int main() {
     printf("I'm a new feature\n");
     printf("I'm the second feature\n");
 
+    int i = 0;
+
+    scanf("%d", &i);
+
+    while (i < 10) {
+        printf("i = %d\n", i);
+        i++;
+    }
+
     return 0;
 }
